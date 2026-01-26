@@ -28,7 +28,7 @@
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mesaif0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="50" /></a>
+<a href="https://linkedin.com/in/byahmedsaif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="50" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/byahmedsaif" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="38" /></a>
 </p>
